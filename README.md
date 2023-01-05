@@ -12,3 +12,4 @@ My bookmark list of coding dojos
 
 See also:
 * [Katas listed on codingdojo.org](https://codingdojo.org/kata/)
+* [@gamontal's curated list of katas](https://github.com/gamontal/awesome-katas)
